@@ -6,6 +6,13 @@ access.
 Using the contained catalog.xml, the local versions are used instead of the
 original locations.
 
+Sources for my schemas:
+
+exportformats.xsd: https://github.com/bengtmartensson/harctoolboxbundle
+irp-protocols.xsd: https://github.com/bengtmartensson/IrpTransmogrifier
+girr.xsd:          https://github.com/bengtmartensson/Girr
+girr_ns.xsd:       https://github.com/bengtmartensson/Girr
+
 Author: Bengt Martensson and others.
 License: my files: Public domain; others: see those files.
 Home page: http://www.harctoolbox.org
