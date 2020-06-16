@@ -1,3 +1,5 @@
+This project has been replaced by https://github.com/bengtmartensson/HarctoolboxCommon.
+
 This directory contains XML schemas and DTDs used by the Harctoolbox project.
 It also contains some other files, from w3c and the Apache project, in order
 to make harctooolboxbundle self contained. It can be validated without network
@@ -8,7 +10,7 @@ original locations.
 
 Sources for my schemas:
 
-exportformats.xsd: https://github.com/bengtmartensson/harctoolboxbundle
+exportformats.xsd: https://github.com/bengtmartensson/IrScrutinizer
 irp-protocols.xsd: https://github.com/bengtmartensson/IrpTransmogrifier
 girr.xsd:          https://github.com/bengtmartensson/Girr
 girr_ns.xsd:       https://github.com/bengtmartensson/Girr
